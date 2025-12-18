@@ -21,7 +21,6 @@
 1. **Register a New User**:
    - On the login screen, click "Register"
    - Fill in the registration form:
-     - Member ID: Any unique identifier (e.g., "MEM001")
      - First Name: Your first name
      - Last Name: Your last name
      - Email: Your email address
@@ -29,7 +28,7 @@
      - Password: Choose a password
      - Confirm Password: Re-enter your password
    - Click "Register"
-   - A default savings account will be created automatically
+   - A default savings account will be created automatically and a unique member identifier (e.g., "MEM001") generated
 
 2. **Login**:
    - Enter your email and password
@@ -57,12 +56,7 @@
    - Check that balance updates
    - Verify transaction appears in history
 
-4. **Withdrawals**:
-   - Try withdrawing more than balance (should fail)
-   - Withdraw a valid amount
-   - Check that balance updates correctly
-
-5. **Transaction History**:
+4. **Transaction History**:
    - View all transactions
    - Verify dates, amounts, and reference numbers
 
