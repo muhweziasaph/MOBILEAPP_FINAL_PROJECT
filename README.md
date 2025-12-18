@@ -89,6 +89,9 @@ app/
 - Add network security configurations
 - Encrypt sensitive data
 - Implement proper session management
+## For further app documentation
+- read QUICK_START.md and ROOM_DATABASE_INFO.md in the main app files
+
 
 ## License
 
