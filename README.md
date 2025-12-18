@@ -1,14 +1,13 @@
-# SACCO Savings App
+# SACCO Savings App (Treasurer use only)
 
-A comprehensive Android application for managing SACCO (Savings and Credit Cooperative Organization) savings accounts, built with Kotlin.
+A comprehensive Android application for managing SACCO (Savings and Credit Cooperative Organization) savings accounts, built with Kotlin and jetpack as the primary technology than primary XML based ui approach because  jetpack compose provides simpler ,more modern and more efficient way of building android user interfaces  
 
-## Features
+## Features currently as its still under development 
 
-- **User Authentication**: Register and login functionality for SACCO members
-- **Account Management**: View account balance and account details
-- **Deposits**: Make deposits to savings accounts
-- **Withdrawals**: Withdraw funds from accounts (with balance validation)
-- **Transaction History**: View complete transaction history with details
+- **User Authentication**: Register and login functionality for SACCO treasurer
+- **member registration and deleting **: treasurer can add or delete a member
+- **Deposits**: treasurer can make deposits members savings accounts
+- **Transaction History**: treasurer can View complete transaction history with details
 - **Local Database**: Uses Room database for offline data storage
 
 ## Technology Stack
