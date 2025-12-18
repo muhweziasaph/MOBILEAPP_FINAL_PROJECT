@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color accent_green
+color background_light
+color divider
+color gradient_end
+color gradient_start
+color ic_launcher_background
+color primary_blue
+color primary_blue_dark
+color primary_blue_light
+color text_primary
+color text_secondary
+color white
+drawable logo
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.SaccoSavings
+xml file_paths
