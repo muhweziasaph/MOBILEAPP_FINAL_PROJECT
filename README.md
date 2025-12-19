@@ -5,7 +5,7 @@ A comprehensive Android application for managing SACCO (Savings and Credit Coope
 ## Features currently as its still under development 
 
 - **User Authentication**: Register and login functionality for SACCO treasurer
-- **member registration and deleting **: treasurer can add or delete a member
+- **member registration and deleting**: treasurer can add or delete a member
 - **Deposits**: treasurer can make deposits members savings accounts
 - **Transaction History**: treasurer can View complete transaction history with details
 - **Local Database**: Uses Room database for offline data storage
